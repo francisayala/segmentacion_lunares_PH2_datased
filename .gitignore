@@ -1,0 +1,21 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual
+venv/
+env/
+
+# Dataset PH2 (muy grande, no se sube)
+data/
+
+# Resultados generados
+outputs/
+
+# Archivos de VSCode
+.vscode/
+
+# Archivos del sistema
+.DS_Store
